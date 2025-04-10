@@ -1,0 +1,17 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:/Users/hirak/Videos/Chinook_Sqlite.sqlite",
+            "name": "Chinnok"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Chinook",
+            "database": "C:\\Users\\hirak\\OneDrive\\Desktop\\chinook-database-master\\ChinookDatabase\\DataSources\\Chinook_Sqlite.sqlite"
+        }
+    ]
+}
